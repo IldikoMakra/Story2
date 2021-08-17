@@ -1,3 +1,3 @@
-This is the firsst line of my chapter
+This is the first line of my chapter.
 And this is second one.
 Now I am ready with this.
